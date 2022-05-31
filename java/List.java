@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Main {
+public class List {
     
     public static void main(String[] args) {
        
