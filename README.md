@@ -5,5 +5,6 @@ https://hyukk.tistory.com 에서 다룬 code
 ## Java 
 
 * [ArrayList vs LinkedList](https://hyukk.tistory.com/3)
-* [HashMap vs ConcurrentHashMap](https://hyukk.tistory.com/4)
+* [HashMap vs ConcurrentHashMap](https://hyukk.tistory.com/4)  
+* [즉시, 지연 로딩과 영속성 전이](https://hyukk.tistory.com/9)
 
