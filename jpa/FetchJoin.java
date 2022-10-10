@@ -7,7 +7,7 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 import java.util.List;
 
-public class JpaMain {
+public class FetchJoin {
 
     public static void main(String[] args) {
 
